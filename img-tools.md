@@ -359,6 +359,7 @@
 * [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - Create Icon Pack Installers
 * [Block Posters](https://www.blockposters.com/) - Create Printable Posters
 * [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
+* [AllFreeDownload](https://all-free-download.com/) - Anything Related to Graphic Design, be it templates, psds, hot pin up art, whatever.
 
 ***
 
